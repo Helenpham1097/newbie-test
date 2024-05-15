@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>ReleaseRunning</title>
+        <title>ReleaseRunningTesting</title>
     </head>
     <body>
-        <p>Running release command....!</p>
+        <p>Running release command now....!</p>
     </body>
 </html>
