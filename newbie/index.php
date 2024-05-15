@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Demomeme</title>
+        <title>ReleaseTest</title>
     </head>
     <body>
-        <p>Hello Demomeme</p>
+        <p>Running release command....!</p>
     </body>
 </html>
