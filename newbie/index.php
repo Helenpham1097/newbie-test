@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>ReleaseTest</title>
+        <title>ReleaseRunning</title>
     </head>
     <body>
         <p>Running release command....!</p>
