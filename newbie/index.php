@@ -4,6 +4,6 @@
         <title>ReleaseRunningTesting</title>
     </head>
     <body>
-        <p>Running release command now....!</p>
+        <p>Running release command againnnnnn....!</p>
     </body>
 </html>
